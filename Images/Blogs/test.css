@@ -1,0 +1,9 @@
+.test{
+	background: url(04.png);
+	background-size: cover;
+	/*height: 400px;
+	width: 740px;*/
+	background-repeat: no-repeat;
+	border: 1px solid blue;
+	height: 100vh;
+}
